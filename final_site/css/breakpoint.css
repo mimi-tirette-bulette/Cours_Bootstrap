@@ -1,0 +1,32 @@
+
+@media (max-width: 576px) { 
+  .mobile-nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  #banner {
+    height: 185px;
+  }
+
+  .mybutton {
+    width: 100%;
+  }
+
+}
+
+
+@media (max-width: 768px) {
+  
+  nav {
+    display: flex !important;
+    flex-direction: column !important;
+
+  }
+
+  #banner {
+    height: 300px;
+  }
+}

@@ -1,0 +1,24 @@
+/**********/
+/* HEADER */
+/**********/
+
+nav a img {
+  width: 65px;
+}
+
+
+/* BANNER */
+
+#banner {
+  background: url('../images/bcg_sushi.jpg') no-repeat center ;
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+}
+
+
+/* INFOS */
+#infos iframe {
+  width: 100%;
+  height: 400px;
+}
